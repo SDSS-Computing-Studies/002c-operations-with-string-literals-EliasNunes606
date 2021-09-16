@@ -2,5 +2,5 @@
 
 noun = "dog"
 verb = "barked"
-result  = print(noun+verb)
+result  = print(noun + " " + verb)
 
